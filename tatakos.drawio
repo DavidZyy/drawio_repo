@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T03:15:35.491Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="bfdCF6yRUoUKMlmfH59J" type="github"><diagram name="Page-1" id="Nf_7jHmQ05PDT4Q4s1YV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-04T05:26:27.751Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="z6W7vrYpIWsgZO1pQC52" version="20.8.23" type="github">
+  <diagram name="Page-1" id="Nf_7jHmQ05PDT4Q4s1YV">
+    <mxGraphModel dx="1137" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="590" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-2" value="system call" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="750" width="510" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-4" value="vfs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-5" value="page 4096B" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="890" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="970" width="510" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-9" value="concrete fs(ext4, fat32)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1050" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1120" width="510" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-11" value="disk drive" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-12" value="disk sector 512 B" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XN7-d1IDMOTUhrD0GANI-13" value="logic sector or cluster&lt;br&gt;(1024B, 2048B, 4096B......)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1050" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
