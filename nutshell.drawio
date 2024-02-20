@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T15:38:55.555Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="4ky8SJ02Ibuo_f078ww5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T03:57:11.887Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="A1ZGrXdIdYQ8EP9dI9nT" version="23.1.5" type="github">
   <diagram name="Page-1" id="ys6BhgE1m9o0-DdgLBB3">
-    <mxGraphModel>
+    <mxGraphModel dx="648" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pj7TBgmdTwbTagmpTVOs-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="450" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pj7TBgmdTwbTagmpTVOs-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="370" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pj7TBgmdTwbTagmpTVOs-6" value="RAM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pj7TBgmdTwbTagmpTVOs-7" value="mmio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pj7TBgmdTwbTagmpTVOs-8" value="SimTop" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pj7TBgmdTwbTagmpTVOs-10" value="NutShell" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pj7TBgmdTwbTagmpTVOs-11" value="NutCore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="190" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
