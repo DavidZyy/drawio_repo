@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T05:03:29.257Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VQgNdZK96w5F2VjW4I9I" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T05:07:12.492Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_XRICUMNnO1jSHJDg3SG" version="24.4.4" type="github">
   <diagram name="Page-1" id="8jLOQw_Qufjyjjml1gcj">
     <mxGraphModel dx="1047" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,19 +17,19 @@
           <mxGeometry x="460" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-4" value="模式识别exam 6.13" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="160" width="240" height="40" as="geometry" />
+          <mxGeometry x="90" y="270" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-5" value="智能系统exam 5.31" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="280" width="240" height="40" as="geometry" />
+          <mxGeometry x="90" y="200" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-6" value="近世代数exam 6.15" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="220" width="240" height="40" as="geometry" />
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-6" value="&lt;b&gt;近世代数exam 6.15&lt;/b&gt;&lt;div&gt;1.学习环&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="330" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-7" value="模式识别大作业 6.20" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="340" width="240" height="40" as="geometry" />
+          <mxGeometry x="90" y="390" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-8" value="智能系统第八章实验 5.31" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="400" width="240" height="40" as="geometry" />
+          <mxGeometry x="90" y="450" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-9" value="一生一芯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="240" height="40" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="480" y="220" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-11" value="&lt;b&gt;并行处理大作业&lt;/b&gt;&lt;div&gt;1.理解共轭梯度算法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="460" width="240" height="40" as="geometry" />
+          <mxGeometry x="90" y="510" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
