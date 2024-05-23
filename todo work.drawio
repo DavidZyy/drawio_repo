@@ -1,44 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T05:07:12.492Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_XRICUMNnO1jSHJDg3SG" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T02:23:33.747Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3ZNKXPwITQTXmzF97_XJ" version="24.4.4" type="github">
   <diagram name="Page-1" id="8jLOQw_Qufjyjjml1gcj">
-    <mxGraphModel dx="1047" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3zKIO5J0ReuY6cfeIp2D-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="120" width="320" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-1" value="urgent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-1" value="urgent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="120" width="320" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-3" value="not urgent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-3" value="not urgent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-4" value="模式识别exam 6.13" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-4" value="模式识别exam 6.13" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="270" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-5" value="智能系统exam 5.31" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-5" value="智能系统exam 5.31" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="200" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-6" value="&lt;b&gt;近世代数exam 6.15&lt;/b&gt;&lt;div&gt;1.学习环&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-6" value="&lt;b&gt;近世代数exam 6.15&lt;/b&gt;&lt;div&gt;1.学习环&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="330" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-7" value="模式识别大作业 6.20" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-7" value="模式识别大作业 6.20" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="390" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-8" value="智能系统第八章实验 5.31" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-8" value="智能系统第八章实验 5.31" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="450" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-9" value="一生一芯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-9" value="一生一芯" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="160" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-10" value="导师任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-10" value="导师任务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="220" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-11" value="&lt;b&gt;并行处理大作业&lt;/b&gt;&lt;div&gt;1.理解共轭梯度算法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-11" value="&lt;b&gt;并行处理大作业&lt;/b&gt;&lt;div&gt;1.理解共轭梯度算法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="510" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NLmy97UUdAwNHOujvJ6F-1" value="cmu 10-414" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NLmy97UUdAwNHOujvJ6F-2" value="mytorch&lt;div&gt;1.加入back算法&lt;/div&gt;&lt;div&gt;2.加入cuda支持&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
