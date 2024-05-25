@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T11:57:43.632Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2zYUO9CzoXAokqoulVRW" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T11:27:40.210Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jtQelC8iAe_34ndxPksN" version="24.4.8" type="github">
   <diagram name="Page-1" id="8jLOQw_Qufjyjjml1gcj">
-    <mxGraphModel dx="918" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="NLmy97UUdAwNHOujvJ6F-2" value="mytorch&lt;div&gt;1.加入back算法&lt;/div&gt;&lt;div&gt;2.加入cuda支持&lt;/div&gt;&lt;div&gt;3.支持8bit定点数&lt;/div&gt;&lt;div&gt;4.加入256*256*2bit的忆阻器设备&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="350" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UaKdUOuoHQ4liv5QSHj-1" value="了解一下容器，并且配置python开发环境https://github.com/Kirhhoff/mini-docker?tab=readme-ov-file" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
