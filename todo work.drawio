@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T14:32:51.876Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="e7SUGT3_mugq3iffDwnG" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T05:26:51.916Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iuEYnz_YbOew1qaFfNxz" version="24.4.9" type="github">
   <diagram name="Page-1" id="8jLOQw_Qufjyjjml1gcj">
-    <mxGraphModel dx="918" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1275" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,9 +28,6 @@
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-7" value="模式识别大作业 6.20" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="390" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-8" value="智能系统第八章实验 5.31" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="450" width="240" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-9" value="一生一芯" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="160" width="240" height="40" as="geometry" />
         </mxCell>
@@ -38,7 +35,7 @@
           <mxGeometry x="480" y="220" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-11" value="&lt;b&gt;并行处理大作业&lt;/b&gt;&lt;div&gt;1.理解共轭梯度算法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="510" width="240" height="40" as="geometry" />
+          <mxGeometry x="90" y="460" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NLmy97UUdAwNHOujvJ6F-1" value="cmu 10-414" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="280" width="240" height="40" as="geometry" />
