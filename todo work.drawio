@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T02:38:59.834Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0nJ_oR5VwMmn-kQfVTh-" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T12:22:52.223Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bCpySt3rnf0e9HENVZGT" version="24.4.13" type="github">
   <diagram name="Page-1" id="8jLOQw_Qufjyjjml1gcj">
-    <mxGraphModel dx="1063" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-4" value="模式识别exam 6.13" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="270" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-5" value="智能系统exam 5.31" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="200" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-6" value="&lt;b&gt;近世代数exam 6.8&lt;/b&gt;&lt;div&gt;1.学习环&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="330" width="240" height="40" as="geometry" />
