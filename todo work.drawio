@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T08:33:24.800Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6XILRSauEswDKPFx98Ha" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T02:43:23.675Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QTofKidhXxtPPwmbTS2O" version="24.6.2" type="github">
   <diagram name="Page-1" id="8jLOQw_Qufjyjjml1gcj">
     <mxGraphModel dx="918" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="lbcXcXBD-Woh2lrWkDNv-9" value="一生一芯" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="160" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lbcXcXBD-Woh2lrWkDNv-11" value="&lt;b&gt;并行处理大作业&lt;/b&gt;&lt;div&gt;1.理解共轭梯度算法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lbcXcXBD-Woh2lrWkDNv-11" value="&lt;b&gt;并行处理大作业 7.14&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="460" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NLmy97UUdAwNHOujvJ6F-1" value="cmu 10-414" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="2UaKdUOuoHQ4liv5QSHj-1" value="了解一下容器，并且配置python开发环境https://github.com/Kirhhoff/mini-docker?tab=readme-ov-file" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r87CqAEgcb1rkNjKrv6F-1" value="&lt;b&gt;并行处理小作业 7.14&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r87CqAEgcb1rkNjKrv6F-2" value="&lt;b&gt;大数据时代芯片 7.5&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
