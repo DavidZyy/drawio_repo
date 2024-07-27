@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T08:17:52.153Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="UKIzXwsVprf3D4FlBQrK" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="Page-1" id="8jLOQw_Qufjyjjml1gcj">
-    <mxGraphModel dx="1130" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="2UaKdUOuoHQ4liv5QSHj-1" value="了解一下容器，并且配置python开发环境https://github.com/Kirhhoff/mini-docker?tab=readme-ov-file" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hlv7yMBvfD_rSl0W57Bb-1" value="学习代理以及http的相关知识。&lt;div&gt;https://imququ.com/post/web-proxy.html#toc-1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://blog.revincx.icu/posts/proxy-summary/&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="510" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
