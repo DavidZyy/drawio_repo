@@ -1,14 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="8JL3r0IEEzIvo5xmHNcU">
-    <mxGraphModel dx="1306" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gXifH98TI9z1TRahVxYh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="360" height="80" as="geometry" />
+        <mxCell id="gXifH98TI9z1TRahVxYh-1" value="Tensor(autograd, compute graph)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gXifH98TI9z1TRahVxYh-2" value="NDArray" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="290" height="40" as="geometry" />
+        <mxCell id="gXifH98TI9z1TRahVxYh-2" value="NDArray(shape, stride, offset...)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="120" y="240" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-2" value="Device(numpy, cpu, cuda)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-3" value="operator(+, -, *, /, reshape, permute, broadcast...)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-5" value="model(resnet, language model...)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-6" value="linear, relu, norm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-7" value="dataloader&lt;div&gt;(mnist, cifar10, penn treebank...)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-8" value="conv, pool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-9" value="sequence(rnn, lstm)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-10" value="transformer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-11" value="optimizer&lt;div&gt;(sgd, adam)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-12" value="Application(train, inference)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKbQJhTAtyl1i4n443l8-13" value="loss function&lt;div&gt;(cross entropy...)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
