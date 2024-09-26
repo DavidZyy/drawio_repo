@@ -16,8 +16,14 @@
         <mxCell id="HJB4MSHYhabP_lslFaBa-2" value="model_executor(base, cpu, gpu, tpu, xpu)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="HJB4MSHYhabP_lslFaBa-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJB4MSHYhabP_lslFaBa-4" target="HJB4MSHYhabP_lslFaBa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HJB4MSHYhabP_lslFaBa-4" value="driver_worker(Base, worker)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HJB4MSHYhabP_lslFaBa-7" value="model_runner" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
