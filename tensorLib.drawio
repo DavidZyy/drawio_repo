@@ -64,6 +64,24 @@
         <mxCell id="JrcSGZeKWpiTpf5liUEg-12" value="C_wrap" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="310" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JrcSGZeKWpiTpf5liUEg-13" value="a wrap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JrcSGZeKWpiTpf5liUEg-14" value="64" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JrcSGZeKWpiTpf5liUEg-15" value="32" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JrcSGZeKWpiTpf5liUEg-18" value="a block" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JrcSGZeKWpiTpf5liUEg-20" value="128" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JrcSGZeKWpiTpf5liUEg-21" value="128" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
